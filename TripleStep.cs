@@ -41,7 +41,8 @@ public class TripleStep{
 	
 	public void Main(){
 	
-	 	var n = countWays(16);
+	 	var n = countWays(19);
+		Console.WriteLine("The result of Triple Step Algorithm is : ");
 		Console.WriteLine(n); 
 	}
 }

@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 public class TripleStep{
 	int countWays(int n) {
 		int[] memo = new int[n + 1;
-		//Array.fill(memo, -1)
+		//Array.fill(
 		memo= Enumerable.Repeat(-1, n+1).ToArray();
 		return countWays(n, memo);
 

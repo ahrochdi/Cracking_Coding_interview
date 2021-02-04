@@ -17,7 +17,7 @@ public class TripleStep{
 
 	int countWays(int n, int[] memo) {
 
-		if (n < 0) {
+		if (n < ) {
 			return 0;
 
 		} else if (n == 0) {
